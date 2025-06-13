@@ -1,7 +1,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aderinola-adetoro-3bb8b42b0/)
 
 # Hello, I'm Aderinola
-I'm a junior cybersecurity major actively looking for a cyber security role. Well versed in cybersecurity best practices and the NIST framework.
+I'm a senior cybersecurity major actively looking for a cyber security role. Well versed in cybersecurity best practices and the NIST framework.
 
 ## Tools
 - [![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://www.wireshark.org/)  
