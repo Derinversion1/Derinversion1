@@ -25,8 +25,6 @@ I'm a senior cybersecurity major actively looking for a cyber security role. Wel
 ## Certifications
 
 - [![Google Cybersecurity Professional Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Professional%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-cybersecurity)
-  
-- [![ISC2 Certified in Cybersecurity](https://img.shields.io/badge/ISC2-Certified%20in%20Cybersecurity-00AAE7?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/Certifications/CC)
 
 - [![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://skillsforall.com/course/networking-basics)
 
